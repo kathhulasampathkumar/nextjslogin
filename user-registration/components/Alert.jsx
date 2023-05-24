@@ -11,6 +11,8 @@ Alert.propTypes = {
     fade: PropTypes.bool
 };
 
+
+
 Alert.defaultProps = {
     id: 'default-alert',
     fade: true
